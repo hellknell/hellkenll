@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadmin"]=self["webpackChunkadmin"]||[]).push([[610],{3229:function(n,e,t){t.r(e),t.d(e,{default:function(){return d}});var r=t(6768);const u=(0,r.Lk)("h1",{style:{"text-align":"center"}},"欢迎使用12306售票平台",-1),a=[u];function c(n,e){return(0,r.uX)(),(0,r.CE)("div",null,a)}var i=t(1241);const s={},l=(0,i.A)(s,[["render",c]]);var d=l}}]);
+//# sourceMappingURL=610.018d6368.js.map
